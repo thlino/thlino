@@ -6,7 +6,7 @@
 
 🖥️ Sou Analista de desevolvimentos e Operaçoes (devops), Licenciado em tecnologia em Devops.
 
-🌐 [Acessse meu:](https://www.linkedin.com/in/thomaz-lino-477b76249/)
+🌐 [Acessse meu: linkedin ](https://www.linkedin.com/in/thomaz-lino-477b76249/)
 
 
 <!--
