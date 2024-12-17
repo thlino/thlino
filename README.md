@@ -1,6 +1,6 @@
 ## Sejam Bem - Vindo ao Meu Mundo Git e Devops! 👋
 
-![](https://www.google.com.br/imgres?q=gif%20do%20devops%20&imgurl=https%3A%2F%2Fwww.globalsign.com%2Fapplication%2Ffiles%2F8716%2F8451%2F0374%2FDevsecops_GIF.gif&imgrefurl=https%3A%2F%2Fwww.globalsign.com%2Fpt-br%2Fpki-devops&docid=uQLXl7jW3pwJ3M&tbnid=FELPKOJHWM1g4M&vet=12ahUKEwiXmqO7_66KAxV1CrkGHSMnMoAQM3oECBkQAA..i&w=721&h=474&hcb=2&ved=2ahUKEwiXmqO7_66KAxV1CrkGHSMnMoAQM3oECBkQAA)
+![](https://www.google.com.br/imgres?q=gif%20do%20devops%20&imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1679566984105%2Fa9959474-198d-4bff-b290-1a54b4d66092.gif%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dformat%2Ccompress%26gif-q%3D60%26format%3Dwebm&imgrefurl=https%3A%2F%2Fkamranali.hashnode.dev%2Fexploring-devops-what-it-is-and-how-to-become-a-devops-engineer&docid=LwJ36cqWqtA5rM&tbnid=_hQj66OVj3rwEM&vet=12ahUKEwiXmqO7_66KAxV1CrkGHSMnMoAQM3oECBUQAA..i&w=1600&h=840&hcb=2&ved=2ahUKEwiXmqO7_66KAxV1CrkGHSMnMoAQM3oECBUQAA)
 
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
