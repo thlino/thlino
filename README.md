@@ -2,6 +2,11 @@
 
 ![](colaboraread.com.br/aluno/timeline/index/3504896401?ofertaDisciplinaId=1974673)
 
+🌐 Ola me chamo thomaz !
+
+🖥️ Sou Analista desevolvimentos e Operaçoes (devopas),Licenciado em tecnologia em Devops.
+
+
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
