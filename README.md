@@ -4,7 +4,9 @@
 
 🌐 Ola me chamo thomaz !
 
-🖥️ Sou Analista desevolvimentos e Operaçoes (devopas),Licenciado em tecnologia em Devops.
+🖥️ Sou Analista de desevolvimentos e Operaçoes (devops), Licenciado em tecnologia em Devops.
+
+🌐 [Acessse meu:](https://www.linkedin.com/in/thomaz-lino-477b76249/)
 
 
 <!--
