@@ -2,7 +2,7 @@
 
 ![](colaboraread.com.br/aluno/timeline/index/3504896401?ofertaDisciplinaId=1974673)
 
-🌐 Ola me chamo thomaz!
+🌐 Ola sou o thomaz!
 
 🖥️ Sou Analista de desevolvimentos e Operaçoes (devops), Licenciado em tecnologia em Devops.
 
