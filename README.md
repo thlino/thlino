@@ -8,6 +8,8 @@
 ##### titulo 5 
 ###### titulo 6
 
+![ Conhecimento fudaments Docker ](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftecnologia-e-afins%2Fo-que-%25C3%25A9-docker-188e283088dd&psig=AOvVaw3dq2TWBNz9LXgT-YljzZ_F&ust=1734481166489000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiH8dP_w62KAxUXimEGHXlQB2UQjRx6BAgAEBk)
+
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
