@@ -1,6 +1,5 @@
 ## Sejam Bem - Vindo ao Meu Mundo Git e Devops! 👋
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
