@@ -8,6 +8,11 @@
 
 🌐 [Acessse meu: linkedin ](https://www.linkedin.com/in/thomaz-lino-477b76249/)
 
+------------
+## Minha Tecnologias 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+
 
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
