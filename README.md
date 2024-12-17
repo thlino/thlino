@@ -1,6 +1,6 @@
 ## Sejam Bem - Vindo ao Meu Mundo Git e Devops! 👋
 
-![] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZibXpiMzFlcG1kNmU0MHhwY29nangwenpzejZhbDJxdW1lcTNxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eC5ruROw794s/giphy.webp)
+![](https://www.google.com.br/imgres?q=gif%20do%20devops%20&imgurl=https%3A%2F%2Fwww.globalsign.com%2Fapplication%2Ffiles%2F8716%2F8451%2F0374%2FDevsecops_GIF.gif&imgrefurl=https%3A%2F%2Fwww.globalsign.com%2Fpt-br%2Fpki-devops&docid=uQLXl7jW3pwJ3M&tbnid=FELPKOJHWM1g4M&vet=12ahUKEwiXmqO7_66KAxV1CrkGHSMnMoAQM3oECBkQAA..i&w=721&h=474&hcb=2&ved=2ahUKEwiXmqO7_66KAxV1CrkGHSMnMoAQM3oECBkQAA)
 
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
