@@ -1,6 +1,6 @@
-## Sejam Bem - Vindo ao Meu Mundo Git ! 👋
+## Sejam Bem - Vindo ao Meu Mundo Git e Devops! 👋
 
-![] (https://imgflip.com/i/8ec52z)
+![] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZibXpiMzFlcG1kNmU0MHhwY29nangwenpzejZhbDJxdW1lcTNxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eC5ruROw794s/giphy.webp)
 
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
