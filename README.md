@@ -1,6 +1,6 @@
 ## Sejam Bem - Vindo ao Meu Mundo Git ! 👋
 
-![] (https://www.istockphoto.com/de/vektor/devops-und-devsecops-konzeptionelle-darstellung-gm1423173157-468232584)
+![] (https://imgflip.com/i/8ec52z)
 
 <!--
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
