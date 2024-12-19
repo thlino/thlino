@@ -19,7 +19,7 @@
 
 | Cursos | Certificados |
 |--------|--------------|  
-[docker](https://www.dio.me/users/thomazzvivo)
+[docker](https://assets.dio.me/bcjbHC4hNzIjtDRv8MSbi9XkHIPW5dMJL3h3gu9_AbY/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9GU0EwRU9YVC5qcGc)
 
 
 
