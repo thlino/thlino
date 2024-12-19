@@ -19,7 +19,7 @@
 
 | Cursos | Certificados |
 |--------|--------------|  
-![docker](image-1.png)
+![docker]  (https://www.dio.me/users/thomazzvivo)
 
 
 **thlino/thlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
