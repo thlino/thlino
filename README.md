@@ -20,10 +20,10 @@
 | Cursos | Certificados    |
 |--------|--------------   |  
   Docker | (https://www.dio.me/users/thomazzvivo)
-  Linux    (https://www.dio.me/users/thomazzvivo)  
-  Devops   (https://www.dio.me/users/thomazzvivo)
-  Azure    (https://www.dio.me/users/thomazzvivo)
-  GCP      (https://www.dio.me/users/thomazzvivo)
+  Linux  | (https://www.dio.me/users/thomazzvivo)  
+  Devops | (https://www.dio.me/users/thomazzvivo)
+  Azure  | (https://www.dio.me/users/thomazzvivo)
+  GCP    | (https://www.dio.me/users/thomazzvivo)
 
 
 
